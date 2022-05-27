@@ -48,7 +48,7 @@ public class AppIntegrationTest
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigorous Test :-)
      */
     public void testApp()
     {

@@ -27,7 +27,7 @@ under the License.
   <version>1.0</version>
   <name>it-mjar-71</name>
   <url>http://maven.apache.org</url>
-  <description>Test that the default manifest is added by default if found under target/classes. Can also be overriden.</description>
+  <description>Test that the default manifest is added by default if found under target/classes. Can also be overridden.</description>
 
   <build>
     <plugins>
